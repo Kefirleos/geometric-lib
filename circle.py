@@ -33,5 +33,3 @@ def perimeter(r):
         Output: 31.41592653589793
     """
     return 2 * math.pi * r
-
-print(perimeter(5))
